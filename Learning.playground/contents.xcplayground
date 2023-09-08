@@ -6,5 +6,6 @@
         <page name='Базовые типы'/>
         <page name='var vs let'/>
         <page name='if else operators'/>
+        <page name='Functions'/>
     </pages>
 </playground>
