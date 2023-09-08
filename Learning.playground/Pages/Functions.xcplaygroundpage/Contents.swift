@@ -93,6 +93,6 @@ func sumNumbers() -> Int { /*Это тоже самое что и ниже, пр
 }
 var resoult = sumNumbers()
 
-var sumNumbers: Int {
+var sumNumbers2: Int {
     return number1 + number2
 }
