@@ -7,5 +7,7 @@
         <page name='var vs let'/>
         <page name='if else operators'/>
         <page name='Functions'/>
+        <page name='Optionals'/>
+        <page name='Tuples'/>
     </pages>
 </playground>
