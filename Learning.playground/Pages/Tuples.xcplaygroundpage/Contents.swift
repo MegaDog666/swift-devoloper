@@ -40,3 +40,14 @@ func getUserInfo3() -> (name: String, isPremium: Bool) {
 
 let info2 = getUserInfo3()
 let name2 = info2.name
+
+func getUserInfo4 () -> (name: String, isPremium: Bool, isNew: Bool) {
+    return (userName, userPremium, userIsNew )
+}
+
+func doSomethingWithUserInfo(info: (name: String, isPremium: Bool, isNew: Bool)) {
+     
+}
+
+let info = getUserInfo4()
+doSomethingWithUserInfo(info: info)
