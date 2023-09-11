@@ -1,7 +1,6 @@
 import Foundation
 
 
- 
 var userName: String = "Hello"
 var userPremium: Bool = false
 var userIsNew: Bool = true
