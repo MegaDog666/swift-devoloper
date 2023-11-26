@@ -6,5 +6,18 @@
         <page name='Базовые типы'/>
         <page name='var vs let'/>
         <page name='if else operators'/>
+        <page name='Functions'/>
+        <page name='Optionals'/>
+        <page name='Tuples'/>
+        <page name='OOP'/>
+        <page name='Structs'/>
+        <page name='Enums'/>
+        <page name='Classes'/>
+        <page name='Private vs public'/>
+        <page name='Array and Sets'/>
+        <page name='Dictonaries'/>
+        <page name='ForLoops'/>
+        <page name='Sort, Filter, Map'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
